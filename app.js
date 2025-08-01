@@ -23,7 +23,7 @@ const updateTemp = async () => {
     let city = searchInput;
     let cityVal = city.value.trim();
     if (cityVal === "") {
-        cityVal = "Visakhapatnam";
+        cityVal = "Vijayawada";
     }
 
     const API_URL = `https://api.weatherapi.com/v1/forecast.json?key=${API_KEY}&q=${cityVal}&days=4&aqi=no&alerts=no`;
