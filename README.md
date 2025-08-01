@@ -77,7 +77,7 @@ Below are screenshots showcasing the Weather App's interface:
 - The app is styled with a dark theme and a vibrant accent color (`hsl(0, 70%, 60%)`).
 
 ## Credits
-- Made with ❤️ by [Venu K](https://github.com/notvenu).
+- Made with ❤️ by [V Rohith](https://github.com/Rohith0232).
 - Weather data provided by [WeatherAPI](https://www.weatherapi.com/).
 - Icons from [Font Awesome](https://fontawesome.com/).
 - Font from [Google Fonts](https://fonts.google.com/).
